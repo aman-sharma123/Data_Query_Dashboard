@@ -1,7 +1,7 @@
-# AI Query Interaction System
+# AI Query Dashboard
 
 ## 🚀 Project Overview
-This project is an **AI-powered Query Interaction System** that allows users to input queries and get simulated AI responses in the form of dynamic graphs. It includes features such as **query history, dynamic data generation, real-time suggestions, and an intelligent loading system.**
+This project is **Data_Query_Dashboard** that allows users to input queries and get simulated AI responses in the form of dynamic graphs. It includes features such as **query history, dynamic data generation, real-time suggestions, and an intelligent loading system.**
 
 ## 🔥 Features
 - **AI-like Query Suggestions**: Provides real-time suggestions based on user input.
@@ -28,31 +28,13 @@ This project is an **AI-powered Query Interaction System** that allows users to 
 - **State Management**: Redux Toolkit
 - **UI Components**: Tailwind CSS, Lucide React Icons
 
-## 📂 Project Structure
-```
-📦 ai-query-system
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 QueryInput.tsx  # Handles AI-like input suggestions
- ┃ ┃ ┣ 📜 QueryHistory.tsx  # Displays and reruns query history
- ┃ ┃ ┣ 📜 ResultsDisplay.tsx  # Shows AI-generated results as a chart
- ┃ ┣ 📂 redux
- ┃ ┃ ┣ 📜 store.ts  # Configures Redux store
- ┃ ┃ ┣ 📜 querySlice.ts  # Manages query state and AI simulation logic
- ┃ ┣ 📂 styles
- ┃ ┃ ┣ 📜 tailwind.css  # Custom styles
- ┃ ┣ 📜 App.tsx  # Main application file
- ┃ ┣ 📜 index.tsx  # Entry point
- ┗ 📜 package.json  # Dependencies and scripts
-```
-
 ## 🚀 Installation & Setup
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/ai-query-system.git
 
 # Navigate into the project folder
-cd ai-query-system
+cd Data_Query_Dashboard
 
 # Install dependencies
 npm install
@@ -75,8 +57,5 @@ npm run deploy
 - Add **more chart types** (line graphs, pie charts, etc.).
 - Implement **user authentication** for personalized query history.
 
-## 📝 License
-This project is open-source and available under the **MIT License**.
-
 ---
-### 🎯 Developed as part of an AI Query Interaction Assignment 🚀
+### 🎯 Developed as part of a Data_Query_Dashboard Assignment 🚀
