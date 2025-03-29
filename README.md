@@ -31,7 +31,7 @@ This project is **Data_Query_Dashboard** that allows users to input queries and 
 ## 🚀 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-query-system.git
+git clone https://github.com/aman-sharma123/Data_Query_Dashboard.git
 
 # Navigate into the project folder
 cd Data_Query_Dashboard
